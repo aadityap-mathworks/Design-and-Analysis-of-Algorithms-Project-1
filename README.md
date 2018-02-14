@@ -32,5 +32,6 @@ directory”
 
 Execution:​ 
 The program should be executable by running the below command:
-<user_id>_phone_directory.out <input file name>​”
+./apatil19_phone_directory.out text.csv
+
 
